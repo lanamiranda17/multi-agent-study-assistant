@@ -97,6 +97,6 @@ O sistema depende de acesso à API Groq. As respostas dos modelos podem conter i
 
 ## Autoria e contexto acadêmico
 
-Desenvolvido em colaboração por **[Lana da Silva Miranda](https://github.com/lanamiranda17)** e **[Caio Bueno Finocchio Martins](https://github.com/CaioBFM)**, na disciplina **GCC128 — Inteligência Artificial**, da Universidade Federal de Lavras (UFLA), ministrada pelo professor Ahmed Ali Abdalla Esmin.
+Desenvolvido em colaboração por **[Lana da Silva Miranda](https://github.com/lanamiranda17)** e **[Caio Bueno Finocchio Martins](https://github.com/CaioBFM)**, na disciplina **GCC128 - Inteligência Artificial**, da Universidade Federal de Lavras (UFLA), ministrada pelo professor Ahmed Ali Abdalla Esmin.
 
 A implementação acadêmica original está disponível no [repositório Trabalhos — IA](https://github.com/CaioBFM/Trabalhos---IA/tree/main/agentes-inteligentes).
